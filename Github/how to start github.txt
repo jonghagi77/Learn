@@ -1,0 +1,16 @@
+Github 시작하기
+
+1. Git 설치하기
+
+1-1. Linux 계열 OS에서 git 설치
+
+Linux Terminal 에 아래 명령어 입력
+> sudo apt-get install git
+
+1-2.Windows OS에서 git 설치
+git-scm.com 에서 git 최신버전 설치
+> 참고자료 (https://wonderbout.tistory.com/64)
+
+2.Github에서 repository 생성 후 URL을 복사한다.
+
+3.로컬 위치에서 git clone `복사한 URL 붙여넣기` 를 하면 해당 위치에 생성한 repository가 checkout 된다.
