@@ -1,8 +1,5 @@
-<h1>공부하고 있는 것들</h1>
+# Studying List
 
-<ul>
-    <li>JavaScript</li>
-    <li>Infrastructure</li>
-    <li>Shell</li>
-    <li>Github</li>
-</ul>
+- [Javascript](https://github.com/jonghagi77/Learn/tree/master/JavaScript)
+- Shell
+- Github 
